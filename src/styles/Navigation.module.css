@@ -1,0 +1,22 @@
+.navigation {
+    height: auto;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: fixed;
+}
+
+.title {
+    font-family: 'Programme';
+    font-size: 23px;
+    color: #fff;
+    letter-spacing: -0.5px;
+    margin-left: 10px;
+}
+
+.logo {
+    height: 100px;
+    width: 100px;
+    object-fit: contain;
+}
